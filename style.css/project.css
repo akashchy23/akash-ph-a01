@@ -39,6 +39,11 @@ header{
     margin-left: 150px;
     margin-right: 150px;
 }
+nav h2{
+    color: #4E47FF;
+    font-size: 34px;
+    font-weight: bold;
+}
 .header-container{
     text-align: center;
     padding: 150px;
@@ -118,5 +123,6 @@ main{
     margin-top: 1px;
     color: #00000082;
     padding-bottom: 50px;
+    margin-left: 5px;
     
 }
