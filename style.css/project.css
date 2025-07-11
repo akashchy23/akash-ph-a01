@@ -25,6 +25,11 @@
     font-weight: bold;
 
 }
+
+button:hover{
+    background-color: gold;
+    color: black;
+}
 /* header related style */
 header{
     background-image: url('../Assets/Hero-bg.png');
