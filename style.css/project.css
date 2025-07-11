@@ -155,3 +155,28 @@ main{
     width: 100%;
     height: 50px;
 }
+/* footer related style */
+footer{
+    background-color: #FFFFFF;
+    text-align: center;
+    margin-top: 140px;
+}
+.footer-title{
+    color: #4E47FF;
+    font-size: 95px;
+    margin-bottom: 8px;
+}
+.footer-description{
+    color: #8987A1;
+}
+.footer-link  li{
+    list-style: none;
+}
+.footer-link a{
+    text-decoration: none;
+}
+.footer-link{
+    display: flex;
+    justify-content: center;
+    gap:48px;
+}
