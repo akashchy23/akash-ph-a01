@@ -171,6 +171,30 @@ main{
     padding: 0;
     color: #8987a1b4;
 }
+
+/* focus section related style */
+.focus-sec-title{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 2px;
+}
+.focus-description{
+    color: #00000050;
+}
+
+.focus-sec-tion{
+    margin-bottom: 100px;
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 70px 150px;
+}
+
+.focus-img{
+    height: 350px;
+    width: 840px;
+    border-radius: 45px;
+    margin-top: 20px;
+}
 /* touch section related css */
 .touch-section{
     display: flex;
