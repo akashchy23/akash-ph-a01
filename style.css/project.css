@@ -125,6 +125,47 @@ main{
     padding-bottom: 50px;
     margin-left: 5px; 
 }
+
+/* feed back related style */
+.feedback-title{
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+}
+.card-section{
+    margin-bottom: 100px;
+}
+.card-container{
+    display: flex;
+    gap: 20px;
+}
+.card{
+    background-color: #F2EDED;
+    width: 350px;
+    padding: 25px 24px;
+    border-radius: 14px;
+}
+.card-title{
+    font-size: 1.25rem;
+    font-weight: 700;
+    
+}
+.card-image{
+    display: flex;
+    gap: 12px;
+}
+.img-review-title{
+    margin-top:2px;
+    margin-bottom: 0;
+    padding: 0;
+    color: #8987A1;
+}
+.img-des{
+    margin-top:0;
+    margin-bottom: 0;
+    padding: 0;
+    color: #8987a1b4;
+}
 /* touch section related css */
 .touch-section{
     display: flex;
